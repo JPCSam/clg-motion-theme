@@ -1,7 +1,7 @@
 {
   "sections": {
     "main": {
-      "type": "article-template",
+      "type": "article-cocktail-template",
       "settings": {
         "blog_show_image": true,
         "blog_show_tags": false,
