@@ -267,6 +267,7 @@
     },
     "e287ca0e-cea3-4be1-b05c-ec7533e13ca9": {
       "type": "blog-posts",
+      "disabled": true,
       "custom_css": [
         ".index-section {padding: 120px 0 0 0 !important;}"
       ],

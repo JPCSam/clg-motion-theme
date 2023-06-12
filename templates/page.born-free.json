@@ -1,1 +1,276 @@
-{"sections":{"main":{"type":"main-page-full-width","disabled":true,"settings":{}},"155b15d9-4298-4eb2-b7d6-6693e4428b9c":{"type":"slideshow","blocks":{"template--18925943718167__155b15d9-4298-4eb2-b7d6-6693e4428b9c-16837993367aecd45b-0":{"type":"image","settings":{"title":"Born Free\nFoundation","title_size":80,"subheading":"INTERNATIONAL WILDLIFE & CONSERVATION CHARITY","link":"","link_text":"","text_align":"vertical-bottom horizontal-left","image":"shopify:\/\/shop_images\/splash_leopard_3.webp","parallax_direction":"top","overlay_opacity":0}}},"block_order":["template--18925943718167__155b15d9-4298-4eb2-b7d6-6693e4428b9c-16837993367aecd45b-0"],"settings":{"section_height":"550px","mobile_height":"auto","parallax":true,"style":"arrows","autoplay":true,"autoplay_speed":5,"lazyload_images":true}},"9ba98d70-9c56-4a33-9fa1-e85cb9000c2e":{"type":"text-and-image","custom_css":[".index-section {padding: 40px 0 20px 0 !important;}"],"settings":{"image":"shopify:\/\/shop_images\/leopoard-camera.webp","image_mask":"none","image2_mask":"none","subtitle":"PANTHERA PARDUS","title":"Leopards","text":"<p>Leopards benefit from innate stealth, camouflage and lightning-speed reactions. Sharp teeth and claws, strong jaws, powerful bodies and acute senses make them accomplished hunters. They are also superb climbers and often drag their kill into trees out of reach of other predators.<\/p>","button_label":"","button_link":"","button_style":"primary","align_text":"left","image_width":"66","layout":"right","divider":false,"top_padding":false,"bottom_padding":false,"lazyload_images":false}},"2ed3e475-6bc5-4f09-80ac-0fc24ca57aec":{"type":"text-and-image","custom_css":[".index-section {padding: 20px 0 40px 0 !important;}"],"settings":{"image":"shopify:\/\/shop_images\/leopard-on-cliff.webp","image_mask":"none","image2_mask":"none","subtitle":"","title":"","text":"<p>Leopards, like most big cats, must defend their home-range from others. Smell is the most important form of communication and they will spray urine and rub scent on trees and bushes around their territory, as well as leaving scratch marks, to warn other animals to keep away.<\/p><p>Leopards are solitary creatures, living and hunting alone – when young, their mothers teach them the skills needed to survive on their own.<\/p><p>The female leopard gives birth and rears cubs alone; cubs are helpless and rely on their mother's milk and as they become weaned they are dependent on the meat their mother catches, before learning how to hunt for themselves.<\/p>","button_label":"","button_link":"","button_style":"primary","align_text":"left","image_width":"66","layout":"left","divider":false,"top_padding":false,"bottom_padding":false,"lazyload_images":false}},"73e7c1d3-d4be-4bc6-a767-2d08e9ef9975":{"type":"text-columns","blocks":{"template--18925943718167__73e7c1d3-d4be-4bc6-a767-2d08e9ef9975-168380985398530acf-0":{"type":"text_block","settings":{"enable_image":false,"image_mask":"none","image_width":650,"title":"Vulnerable Population","text":"<p>International Union for Conservation of Nature lists the clouded leopard as <strong>Vulnerable<\/strong>, with a population of less than 100,000.<\/p>","button_label":"","button_link":""}},"template--18925943718167__73e7c1d3-d4be-4bc6-a767-2d08e9ef9975-168380985398530acf-1":{"type":"text_block","settings":{"enable_image":false,"image_mask":"none","image_width":650,"title":"Location","text":"<p>Widely distributed across Africa, eastern and southern Asia. Found in a very wide range of habitats, including rainforests, woodlands, riverine forests, savannah, and even deserts.<\/p>","button_label":"","button_link":""}},"template--18925943718167__73e7c1d3-d4be-4bc6-a767-2d08e9ef9975-168380985398530acf-2":{"type":"text_block","settings":{"enable_image":false,"image_mask":"none","image_width":650,"title":"Diet","text":"<p>Carnivorous – preferring medium sized mammals such as impala, kob, nyala, kudu, steenbok, gazelles, but also warthogs and smaller prey.<\/p>","button_label":"","button_link":""}}},"block_order":["template--18925943718167__73e7c1d3-d4be-4bc6-a767-2d08e9ef9975-168380985398530acf-0","template--18925943718167__73e7c1d3-d4be-4bc6-a767-2d08e9ef9975-168380985398530acf-1","template--18925943718167__73e7c1d3-d4be-4bc6-a767-2d08e9ef9975-168380985398530acf-2"],"custom_css":[".index-section {padding: 80px 0 !important; border-top: 1px solid var(--colorBorder); border-bottom: 1px solid var(--colorBorder);}"],"settings":{"title":"","align_text":"center","divider":false}},"d5923973-c058-4a35-a907-189605968cce":{"type":"text-and-image","custom_css":[".index-section {padding: 40px 0 20px 0 !important;}"],"settings":{"image":"shopify:\/\/shop_images\/leopoard-tongue.webp","image_mask":"none","image2_mask":"none","subtitle":"","title":"Issues","text":"<p>Wild leopards are under threat, largely due to human pressures and habitat loss, while captive animals suffer in zoos, circuses and under private ownership.<\/p><p>Even in modern zoos big cats repeatedly pace, frustrated because their hunting and territorial instincts are denied. Although they often breed well in captivity, it is extremely difficult to return a captive-bred big cat to the wild and this almost never happens.<\/p>","button_label":"","button_link":"","button_style":"primary","align_text":"left","image_width":"66","layout":"right","divider":false,"top_padding":false,"bottom_padding":false,"lazyload_images":false}},"cf9c3d97-6fe7-4f4e-8d86-641d509aca20":{"type":"text-and-image","custom_css":[".index-section {padding: 20px 0 40px 0 !important;}"],"settings":{"image":"shopify:\/\/shop_images\/leopard-dark.webp","image_mask":"none","image2_mask":"none","subtitle":"","title":"Mission","text":"<p>Born Free works to protect leopards from the threats they face, both in the wild and in captivity.<\/p><p>Born Free rescue individual leopards from suffering and exploitation and provide them life time care.<\/p>","button_label":"","button_link":"","button_style":"primary","align_text":"left","image_width":"66","layout":"left","divider":false,"top_padding":false,"bottom_padding":false,"lazyload_images":false}},"35d32e0f-4645-488a-b146-1a34636c7ba5":{"type":"text-columns","blocks":{"template--18925943718167__35d32e0f-4645-488a-b146-1a34636c7ba5-16838001401a40351e-0":{"type":"text_block","settings":{"enable_image":true,"image":"shopify:\/\/shop_images\/leopard-tree.webp","image_mask":"none","image_width":650,"title":"Rescue & Care","text":"<p>The rescue of individual leopards from lives of misery in African and European zoos, circuses and other captive environments.<\/p><p>They are rehomed at our Big Cat Sanctuary in South Africa and provided with lifetime care in spacious sanctuaries surrounded by their natural habitat.<\/p>","button_label":"Shamwari Big Cat Rescue Sanctuary","button_link":"https:\/\/www.bornfree.org.uk\/shamwari-big-cat-rescue-sanctuary"}},"template--18925943718167__35d32e0f-4645-488a-b146-1a34636c7ba5-16838001401a40351e-1":{"type":"text_block","settings":{"enable_image":true,"image":"shopify:\/\/shop_images\/leopard-fence.webp","image_mask":"none","image_width":650,"title":"Wildlife Trade & Policy","text":"<p>Our ongoing campaign to end captive exploitation of leopards and all wild animals for sport and fun.<\/p>","button_label":"Exotic Pet Trade","button_link":"https:\/\/www.bornfree.org.uk\/exotic-pet-trade"}}},"block_order":["template--18925943718167__35d32e0f-4645-488a-b146-1a34636c7ba5-16838001401a40351e-0","template--18925943718167__35d32e0f-4645-488a-b146-1a34636c7ba5-16838001401a40351e-1"],"custom_css":[".index-section {padding: 80px 0 !important;}"],"settings":{"title":"Born Free raise funds to support...","align_text":"left","divider":false}},"03fb6e48-6ffa-46bf-9f2a-595f706a94b5":{"type":"slideshow","blocks":{"template--18925943718167__03fb6e48-6ffa-46bf-9f2a-595f706a94b5-16837993367aecd45b-0":{"type":"image","settings":{"title":"<b>15% of profits<\/b> from each bottle of Clouded Leopard sold is donated to the Born Free Foundation, which works to protect both wild <b>leopards under threat<\/b> from human pressures and habitat loss and captive leopards from suffering and exploitation in zoos and circuses.","title_size":40,"subheading":"","link":"shopify:\/\/products\/clouded-leopard-gin","link_text":"Help The Cause","text_align":"vertical-center horizontal-center","image":"shopify:\/\/shop_images\/leopoard-in-tree-dark.webp","parallax_direction":"top","overlay_opacity":20}}},"block_order":["template--18925943718167__03fb6e48-6ffa-46bf-9f2a-595f706a94b5-16837993367aecd45b-0"],"settings":{"section_height":"550px","mobile_height":"auto","parallax":false,"style":"minimal","autoplay":false,"autoplay_speed":5,"lazyload_images":true}}},"order":["main","155b15d9-4298-4eb2-b7d6-6693e4428b9c","9ba98d70-9c56-4a33-9fa1-e85cb9000c2e","2ed3e475-6bc5-4f09-80ac-0fc24ca57aec","73e7c1d3-d4be-4bc6-a767-2d08e9ef9975","d5923973-c058-4a35-a907-189605968cce","cf9c3d97-6fe7-4f4e-8d86-641d509aca20","35d32e0f-4645-488a-b146-1a34636c7ba5","03fb6e48-6ffa-46bf-9f2a-595f706a94b5"]}
+{
+  "sections": {
+    "main": {
+      "type": "main-page-full-width",
+      "disabled": true,
+      "settings": {
+      }
+    },
+    "155b15d9-4298-4eb2-b7d6-6693e4428b9c": {
+      "type": "slideshow",
+      "blocks": {
+        "template--18925943718167__155b15d9-4298-4eb2-b7d6-6693e4428b9c-16837993367aecd45b-0": {
+          "type": "image",
+          "settings": {
+            "title": "Born Free\nFoundation",
+            "title_size": 80,
+            "subheading": "INTERNATIONAL WILDLIFE & CONSERVATION CHARITY",
+            "link": "",
+            "link_text": "",
+            "text_align": "vertical-bottom horizontal-left",
+            "image": "shopify:\/\/shop_images\/splash_leopard_3.webp",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "template--18925943718167__155b15d9-4298-4eb2-b7d6-6693e4428b9c-16837993367aecd45b-0"
+      ],
+      "settings": {
+        "section_height": "550px",
+        "mobile_height": "auto",
+        "parallax": true,
+        "style": "arrows",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true
+      }
+    },
+    "9ba98d70-9c56-4a33-9fa1-e85cb9000c2e": {
+      "type": "text-and-image",
+      "custom_css": [
+        ".index-section {padding: 40px 0 20px 0 !important;}"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/leopoard-camera.webp",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "PANTHERA PARDUS",
+        "title": "Leopards",
+        "text": "<p>Leopards benefit from innate stealth, camouflage and lightning-speed reactions. Sharp teeth and claws, strong jaws, powerful bodies and acute senses make them accomplished hunters. They are also superb climbers and often drag their kill into trees out of reach of other predators.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "66",
+        "layout": "right",
+        "divider": false,
+        "top_padding": false,
+        "bottom_padding": false,
+        "lazyload_images": false
+      }
+    },
+    "2ed3e475-6bc5-4f09-80ac-0fc24ca57aec": {
+      "type": "text-and-image",
+      "custom_css": [
+        ".index-section {padding: 20px 0 40px 0 !important;}"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/leopard-on-cliff.webp",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "",
+        "title": "",
+        "text": "<p>Leopards, like most big cats, must defend their home-range from others. Smell is the most important form of communication and they will spray urine and rub scent on trees and bushes around their territory, as well as leaving scratch marks, to warn other animals to keep away.<\/p><p>Leopards are solitary creatures, living and hunting alone – when young, their mothers teach them the skills needed to survive on their own.<\/p><p>The female leopard gives birth and rears cubs alone; cubs are helpless and rely on their mother's milk and as they become weaned they are dependent on the meat their mother catches, before learning how to hunt for themselves.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "66",
+        "layout": "left",
+        "divider": false,
+        "top_padding": false,
+        "bottom_padding": false,
+        "lazyload_images": false
+      }
+    },
+    "73e7c1d3-d4be-4bc6-a767-2d08e9ef9975": {
+      "type": "text-columns",
+      "blocks": {
+        "template--18925943718167__73e7c1d3-d4be-4bc6-a767-2d08e9ef9975-168380985398530acf-0": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Vulnerable Population",
+            "text": "<p>International Union for Conservation of Nature lists the clouded leopard as <strong>Vulnerable<\/strong>, with a population of less than 100,000.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "template--18925943718167__73e7c1d3-d4be-4bc6-a767-2d08e9ef9975-168380985398530acf-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Location",
+            "text": "<p>Widely distributed across Africa, eastern and southern Asia. Found in a very wide range of habitats, including rainforests, woodlands, riverine forests, savannah, and even deserts.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "template--18925943718167__73e7c1d3-d4be-4bc6-a767-2d08e9ef9975-168380985398530acf-2": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Diet",
+            "text": "<p>Carnivorous – preferring medium sized mammals such as impala, kob, nyala, kudu, steenbok, gazelles, but also warthogs and smaller prey.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--18925943718167__73e7c1d3-d4be-4bc6-a767-2d08e9ef9975-168380985398530acf-0",
+        "template--18925943718167__73e7c1d3-d4be-4bc6-a767-2d08e9ef9975-168380985398530acf-1",
+        "template--18925943718167__73e7c1d3-d4be-4bc6-a767-2d08e9ef9975-168380985398530acf-2"
+      ],
+      "custom_css": [
+        ".index-section {padding: 80px 0 !important; border-top: 1px solid var(--colorBorder); border-bottom: 1px solid var(--colorBorder);}"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "divider": false
+      }
+    },
+    "d5923973-c058-4a35-a907-189605968cce": {
+      "type": "text-and-image",
+      "custom_css": [
+        ".index-section {padding: 40px 0 20px 0 !important;}"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/leopoard-tongue.webp",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "",
+        "title": "Issues",
+        "text": "<p>Wild leopards are under threat, largely due to human pressures and habitat loss, while captive animals suffer in zoos, circuses and under private ownership.<\/p><p>Even in modern zoos big cats repeatedly pace, frustrated because their hunting and territorial instincts are denied. Although they often breed well in captivity, it is extremely difficult to return a captive-bred big cat to the wild and this almost never happens.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "66",
+        "layout": "right",
+        "divider": false,
+        "top_padding": false,
+        "bottom_padding": false,
+        "lazyload_images": false
+      }
+    },
+    "cf9c3d97-6fe7-4f4e-8d86-641d509aca20": {
+      "type": "text-and-image",
+      "custom_css": [
+        ".index-section {padding: 20px 0 40px 0 !important;}"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/leopard-dark.webp",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "",
+        "title": "Mission",
+        "text": "<p>Born Free works to protect leopards from the threats they face, both in the wild and in captivity.<\/p><p>Born Free rescue individual leopards from suffering and exploitation and provide them life time care.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "66",
+        "layout": "left",
+        "divider": false,
+        "top_padding": false,
+        "bottom_padding": false,
+        "lazyload_images": false
+      }
+    },
+    "35d32e0f-4645-488a-b146-1a34636c7ba5": {
+      "type": "text-columns",
+      "blocks": {
+        "template--18925943718167__35d32e0f-4645-488a-b146-1a34636c7ba5-16838001401a40351e-0": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/leopard-tree.webp",
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Rescue & Care",
+            "text": "<p>The rescue of individual leopards from lives of misery in African and European zoos, circuses and other captive environments.<\/p><p>They are rehomed at our Big Cat Sanctuary in South Africa and provided with lifetime care in spacious sanctuaries surrounded by their natural habitat.<\/p>",
+            "button_label": "Shamwari Big Cat Rescue Sanctuary",
+            "button_link": "https:\/\/www.bornfree.org.uk\/shamwari-big-cat-rescue-sanctuary"
+          }
+        },
+        "template--18925943718167__35d32e0f-4645-488a-b146-1a34636c7ba5-16838001401a40351e-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/leopard-fence.webp",
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Wildlife Trade & Policy",
+            "text": "<p>Our ongoing campaign to end captive exploitation of leopards and all wild animals for sport and fun.<\/p>",
+            "button_label": "Exotic Pet Trade",
+            "button_link": "https:\/\/www.bornfree.org.uk\/exotic-pet-trade"
+          }
+        }
+      },
+      "block_order": [
+        "template--18925943718167__35d32e0f-4645-488a-b146-1a34636c7ba5-16838001401a40351e-0",
+        "template--18925943718167__35d32e0f-4645-488a-b146-1a34636c7ba5-16838001401a40351e-1"
+      ],
+      "custom_css": [
+        ".index-section {padding: 80px 0 !important;}"
+      ],
+      "settings": {
+        "title": "Born Free raise funds to support...",
+        "align_text": "left",
+        "divider": false
+      }
+    },
+    "03fb6e48-6ffa-46bf-9f2a-595f706a94b5": {
+      "type": "slideshow",
+      "blocks": {
+        "template--18925943718167__03fb6e48-6ffa-46bf-9f2a-595f706a94b5-16837993367aecd45b-0": {
+          "type": "image",
+          "settings": {
+            "title": "At Clouded Leopard Gin, we donate a portion of our profits monthly to the Born Free Foundation, which works to protect both wild leopards under threat from human pressures and habitat loss and captive leopards from suffering and exploitation in zoos and circuses.",
+            "title_size": 40,
+            "subheading": "",
+            "link": "shopify:\/\/products\/clouded-leopard-gin",
+            "link_text": "Help The Cause",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/leopoard-in-tree-dark.webp",
+            "parallax_direction": "top",
+            "overlay_opacity": 20
+          }
+        }
+      },
+      "block_order": [
+        "template--18925943718167__03fb6e48-6ffa-46bf-9f2a-595f706a94b5-16837993367aecd45b-0"
+      ],
+      "settings": {
+        "section_height": "550px",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "minimal",
+        "autoplay": false,
+        "autoplay_speed": 5,
+        "lazyload_images": true
+      }
+    }
+  },
+  "order": [
+    "main",
+    "155b15d9-4298-4eb2-b7d6-6693e4428b9c",
+    "9ba98d70-9c56-4a33-9fa1-e85cb9000c2e",
+    "2ed3e475-6bc5-4f09-80ac-0fc24ca57aec",
+    "73e7c1d3-d4be-4bc6-a767-2d08e9ef9975",
+    "d5923973-c058-4a35-a907-189605968cce",
+    "cf9c3d97-6fe7-4f4e-8d86-641d509aca20",
+    "35d32e0f-4645-488a-b146-1a34636c7ba5",
+    "03fb6e48-6ffa-46bf-9f2a-595f706a94b5"
+  ]
+}
