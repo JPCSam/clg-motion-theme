@@ -74,7 +74,6 @@
       "block_order": [
         "sections--18916032938263__6561970b-076c-4f0e-a0b5-ab2622ec88b7-1683884431b0657a2a-1"
       ],
-      "disabled": true,
       "custom_css": [
         ".branches-wrapper {position: relative; height: 250px; display: flex; justify-content: center; align-items: center; overflow: hidden; z-index: -1;}",
         ".branches {position: absolute; height: 100%; bottom: -25px; left: -35px;}",
