@@ -140,25 +140,25 @@
         "template--19013997396247__54360cb0-dcf2-4f6c-ac22-30e60848debc-text_block-1": {
           "type": "text_block",
           "settings": {
-            "icon": "chat",
-            "title": "Example title",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products.<\/p>"
+            "icon": "thumbs-up",
+            "title": "Distilled in the UK",
+            "text": "<p>Produced from British wheat spirit using one-shot distillation on 30-litre copper pot stills, and distilled in Bristol, UK.<\/p>"
           }
         },
         "template--19013997396247__54360cb0-dcf2-4f6c-ac22-30e60848debc-text_block-2": {
           "type": "text_block",
           "settings": {
-            "icon": "chat",
-            "title": "Example title",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products.<\/p>"
+            "icon": "gift",
+            "title": "Perfect for Gifts",
+            "text": "<p>Presented in a beautiful frosted glass bottle, ideal gift for any Gin lover.<\/p>"
           }
         },
         "template--19013997396247__54360cb0-dcf2-4f6c-ac22-30e60848debc-text_block-3": {
           "type": "text_block",
           "settings": {
-            "icon": "chat",
-            "title": "Example title",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products.<\/p>"
+            "icon": "charity",
+            "title": "Supporting a Good Cause",
+            "text": "<p>We make voluntary donations to charities for every sale.<\/p>"
           }
         }
       },
