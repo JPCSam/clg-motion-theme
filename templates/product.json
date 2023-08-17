@@ -193,28 +193,6 @@
         "lazyload_images": true
       }
     },
-    "d4fc51a2-07fe-4871-8d10-ab16cad6fbb7": {
-      "type": "text-and-image",
-      "settings": {
-        "image": "shopify:\/\/shop_images\/571A0508_smaller.jpg",
-        "image_mask": "square",
-        "image2": "shopify:\/\/shop_images\/571A0527_smaller.jpg",
-        "image2_mask": "square",
-        "subtitle": "",
-        "title": "Distilled in the UK",
-        "text": "<p>Produced from British wheat spirit using one-shot distillation on 30-litre copper pot stills. With botanicals such as juniper berries, coriander seeds, angelica root, cassia bark, mango, black pepper and lemon zest. Distilled in Bristol, UK.<\/p>",
-        "button_label": "",
-        "button_link": "",
-        "button_style": "primary",
-        "align_text": "left",
-        "image_width": "66",
-        "layout": "right",
-        "divider": false,
-        "top_padding": true,
-        "bottom_padding": true,
-        "lazyload_images": true
-      }
-    },
     "fcccd19f-93c9-4e66-b2c9-2014cf6b58e0": {
       "type": "background-image-text",
       "settings": {
@@ -296,7 +274,6 @@
     "sub",
     "54360cb0-dcf2-4f6c-ac22-30e60848debc",
     "background-image-text",
-    "d4fc51a2-07fe-4871-8d10-ab16cad6fbb7",
     "fcccd19f-93c9-4e66-b2c9-2014cf6b58e0",
     "testimonials",
     "product-recommendations",
