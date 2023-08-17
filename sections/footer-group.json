@@ -79,7 +79,7 @@
         ".branches {position: absolute; height: 100%; bottom: -25px; left: -35px;}",
         ".branches-two {position: absolute; height: 100%; bottom: -25px; right: -35px;}",
         ".text-branches {width: 50%; text-align: center; display: flex; justify-content: center; align-content: center;}",
-        "@media screen and (max-width: 600px) {text-branches {display: none !important; }}"
+        "@media screen and (max-width: 600px) {.text-branches {display: none !important; }}"
       ],
       "settings": {
         "full_width": true,
