@@ -271,16 +271,16 @@
     "37c9e5df-4f30-4b93-824e-4ec430483747": {
       "type": "rich-text",
       "blocks": {
-        "template--19013997396247__37c9e5df-4f30-4b93-824e-4ec430483747-heading-1": {
+        "93b5297e-948c-4b09-a2c7-4e409e6db555": {
           "type": "heading",
           "settings": {
-            "title": "Rich text"
+            "title": "Got Insta?"
           }
         },
         "template--19013997396247__37c9e5df-4f30-4b93-824e-4ec430483747-text-1": {
           "type": "text",
           "settings": {
-            "enlarge_text": true,
+            "enlarge_text": false,
             "text": "<p>Want to show off your cocktail-making skills?<br\/><br\/>Share your creations with us on <a href=\"https:\/\/www.instagram.com\/cloudedleopardgin\/?hl=en-gb\" target=\"_blank\" title=\"https:\/\/www.instagram.com\/cloudedleopardgin\/?hl=en-gb\">Instagram<\/a>!<\/p>"
           }
         },
@@ -293,7 +293,7 @@
         }
       },
       "block_order": [
-        "template--19013997396247__37c9e5df-4f30-4b93-824e-4ec430483747-heading-1",
+        "93b5297e-948c-4b09-a2c7-4e409e6db555",
         "template--19013997396247__37c9e5df-4f30-4b93-824e-4ec430483747-text-1",
         "d963719d-91d4-4bd8-8b3e-53bf4d197783"
       ],
