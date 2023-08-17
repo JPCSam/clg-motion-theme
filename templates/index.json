@@ -122,7 +122,7 @@
             "title": "A great, <b>full-flavoured gin<\/b> that leads with a big hit of <b>classic juniper<\/b>, followed by a bright, zingy kick of fresh <b>lemon zest<\/b>, before opening out to the fruity notes of <b>tropical mango<\/b>, balanced by the fragrant spice of <b>black pepper<\/b>.",
             "title_size": 40,
             "subheading": "",
-            "link": "shopify:\/\/products\/clouded-leopard-gin",
+            "link": "shopify:\/\/products\/our-gin",
             "link_text": "Buy Now",
             "text_align": "vertical-center horizontal-center",
             "image": "shopify:\/\/shop_images\/lemons.webp",
@@ -149,7 +149,6 @@
     },
     "f60f5229-6997-4595-9459-cdba7c4528d8": {
       "type": "rich-text",
-      "disabled": true,
       "blocks": {
         "template--18916032381207__f60f5229-6997-4595-9459-cdba7c4528d8-16837938886b246bd7-0": {
           "type": "heading",
@@ -177,6 +176,7 @@
         "template--18916032381207__f60f5229-6997-4595-9459-cdba7c4528d8-16837938886b246bd7-1",
         "01ee098d-a81e-4d32-8811-63735c70ebac"
       ],
+      "disabled": true,
       "custom_css": [
         ".index-section {padding: 60px 0 !important;}"
       ],
@@ -223,7 +223,7 @@
         "title": "How We Are Helping",
         "text": "<p>At Clouded Leopard Gin, we donate a portion of our profits monthly to the <a href=\"https:\/\/www.bornfree.org.uk\" target=\"_blank\" title=\"https:\/\/www.bornfree.org.uk\">Born Free Foundation<\/a>, which works to protect both wild leopards under threat from human pressures and habitat loss and captive leopards from suffering and exploitation in zoos and circuses. <\/p>",
         "button_label": "Help The Cause",
-        "button_link": "shopify:\/\/products\/clouded-leopard-gin",
+        "button_link": "shopify:\/\/products\/our-gin",
         "button_style": "primary",
         "align_text": "left",
         "image_width": "66",
