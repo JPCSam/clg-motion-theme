@@ -50,6 +50,22 @@
             "is_tab": false
           }
         },
+        "2a05597a-9758-4a06-964e-af35637e7874": {
+          "type": "tab",
+          "settings": {
+            "title": "Ingredients",
+            "content": "<p>The botanicals – juniper berries, coriander seeds, angelica root, cassia bark, mango, black pepper and lemon zest – are macerated for 24 hours before distillation. Dilution is with water purified by reverse osmosis<\/p>",
+            "page": ""
+          }
+        },
+        "dad57314-82f0-471b-a8cd-d7d86e0389b4": {
+          "type": "tab",
+          "settings": {
+            "title": "More Information",
+            "content": "<p>Our Clouded Leopard Artisan Dry Gin Comes in a 500ml (50cl) bottle with 40% Alcohol. Presented in a beautiful frosted glass bottle, ideal gift for any Gin lover.<\/p>",
+            "page": ""
+          }
+        },
         "tab": {
           "type": "tab",
           "settings": {
@@ -80,6 +96,8 @@
         "inventory_status",
         "buy_buttons",
         "description",
+        "2a05597a-9758-4a06-964e-af35637e7874",
+        "dad57314-82f0-471b-a8cd-d7d86e0389b4",
         "tab",
         "contact",
         "share"
@@ -111,8 +129,68 @@
       "block_order": [
         "5dad8d30-a7c1-4596-9d16-d5aeae0c09d4"
       ],
+      "disabled": true,
       "settings": {
         "max_width": true
+      }
+    },
+    "54360cb0-dcf2-4f6c-ac22-30e60848debc": {
+      "type": "text-with-icons",
+      "blocks": {
+        "template--19013997396247__54360cb0-dcf2-4f6c-ac22-30e60848debc-text_block-1": {
+          "type": "text_block",
+          "settings": {
+            "icon": "chat",
+            "title": "Example title",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products.<\/p>"
+          }
+        },
+        "template--19013997396247__54360cb0-dcf2-4f6c-ac22-30e60848debc-text_block-2": {
+          "type": "text_block",
+          "settings": {
+            "icon": "chat",
+            "title": "Example title",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products.<\/p>"
+          }
+        },
+        "template--19013997396247__54360cb0-dcf2-4f6c-ac22-30e60848debc-text_block-3": {
+          "type": "text_block",
+          "settings": {
+            "icon": "chat",
+            "title": "Example title",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--19013997396247__54360cb0-dcf2-4f6c-ac22-30e60848debc-text_block-1",
+        "template--19013997396247__54360cb0-dcf2-4f6c-ac22-30e60848debc-text_block-2",
+        "template--19013997396247__54360cb0-dcf2-4f6c-ac22-30e60848debc-text_block-3"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "desktop_columns_per_row": 3,
+        "icon_color": "#000",
+        "button_label": "",
+        "button_link": "",
+        "divider": false
+      }
+    },
+    "background-image-text": {
+      "type": "background-image-text",
+      "settings": {
+        "subtitle": "",
+        "title": "Every Purchase Supports a Great Cause",
+        "text": "<p>We voluntarily donate a portion of profits to Born Free, a charity dedicated to protecting critically endangered species such as the clouded leopard. Your purchase can help us to protect this beautiful big cat.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "image": "shopify:\/\/shop_images\/splash_leopard_3.webp",
+        "layout": "left",
+        "height": 550,
+        "parallax": true,
+        "parallax_direction": "top",
+        "lazyload_images": true
       }
     },
     "d4fc51a2-07fe-4871-8d10-ab16cad6fbb7": {
@@ -129,27 +207,11 @@
         "button_link": "",
         "button_style": "primary",
         "align_text": "left",
-        "image_width": "50",
+        "image_width": "66",
         "layout": "right",
         "divider": false,
         "top_padding": true,
         "bottom_padding": true,
-        "lazyload_images": true
-      }
-    },
-    "background-image-text": {
-      "type": "background-image-text",
-      "settings": {
-        "subtitle": "",
-        "title": "Every Purchase Supports a Great Cause",
-        "text": "<p>We voluntarily donate a portion of profits to Born Free, a charity dedicated to protecting critically endangered species such as the clouded leopard. Your purchase can help us to protect this beautiful big cat.<\/p>",
-        "button_label": "",
-        "button_link": "",
-        "image": "shopify:\/\/shop_images\/splash_leopard_3.webp",
-        "layout": "left",
-        "height": 550,
-        "parallax": true,
-        "parallax_direction": "top",
         "lazyload_images": true
       }
     },
@@ -232,8 +294,9 @@
   "order": [
     "main",
     "sub",
-    "d4fc51a2-07fe-4871-8d10-ab16cad6fbb7",
+    "54360cb0-dcf2-4f6c-ac22-30e60848debc",
     "background-image-text",
+    "d4fc51a2-07fe-4871-8d10-ab16cad6fbb7",
     "fcccd19f-93c9-4e66-b2c9-2014cf6b58e0",
     "testimonials",
     "product-recommendations",
