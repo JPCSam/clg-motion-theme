@@ -280,8 +280,8 @@
         "template--19013997396247__37c9e5df-4f30-4b93-824e-4ec430483747-text-1": {
           "type": "text",
           "settings": {
-            "enlarge_text": false,
-            "text": "<p>Want to show off your cocktail-making skills?<br\/><br\/>Share your creations with us on <a href=\"https:\/\/www.instagram.com\/cloudedleopardgin\/?hl=en-gb\" target=\"_blank\" title=\"https:\/\/www.instagram.com\/cloudedleopardgin\/?hl=en-gb\">Instagram<\/a>!<\/p>"
+            "enlarge_text": true,
+            "text": "<p>Want to show off your cocktail-making skills?<\/p><p>Share your creations with us on <a href=\"https:\/\/www.instagram.com\/cloudedleopardgin\/?hl=en-gb\" target=\"_blank\" title=\"https:\/\/www.instagram.com\/cloudedleopardgin\/?hl=en-gb\">Instagram<\/a>!<\/p>"
           }
         },
         "d963719d-91d4-4bd8-8b3e-53bf4d197783": {
