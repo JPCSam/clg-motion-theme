@@ -65,7 +65,7 @@
         "sections--18916032938263__6561970b-076c-4f0e-a0b5-ab2622ec88b7-1683884431b0657a2a-1": {
           "type": "liquid",
           "settings": {
-            "code": "<div class=\"branches-wrapper\">\n<img class=\"branches\" src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0756\/4338\/8183\/files\/branches.svg\"><\/img>\n<img class=\"branches-two\" src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0756\/4338\/8183\/files\/branches-2.svg\"><\/img>\n<div class=\"text-branches rte appear-delay-1\">\n<p>At Clouded Leopard Gin, we donate a portion of our profits monthly to the Born Free Foundation, which works to protect both wild leopards under threat from human pressures and habitat loss and captive leopards from suffering and exploitation in zoos and circuses. <\/br><\/br><a href=\"http:\/\/www.bornfree.org.uk\/\" target=\"_blank\" class=\"js-no-transition\">www.bornfree.org.uk<\/a><\/p>\n<\/div>\n<\/div>",
+            "code": "<div class=\"branches-wrapper\">\n<img class=\"branches\" src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0756\/4338\/8183\/files\/branches.svg\"><\/img>\n<img class=\"branches-two\" src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0756\/4338\/8183\/files\/branches-2.svg\"><\/img>\n<div class=\"text-branches rte appear-delay-1\">\n<p>At Clouded Leopard Gin, we voluntarily donate a portion of our profits monthly to the Born Free Foundation, which works to protect both wild leopards under threat from human pressures and habitat loss and captive leopards from suffering and exploitation in zoos and circuses. <\/br><\/br><a href=\"http:\/\/www.bornfree.org.uk\/\" target=\"_blank\" class=\"js-no-transition\">www.bornfree.org.uk<\/a><\/p>\n<\/div>\n<\/div>",
             "width": "100%",
             "alignment": "center"
           }
