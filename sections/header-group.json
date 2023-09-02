@@ -1,1 +1,36 @@
-{"type":"header","name":"t:sections.header-group.name","sections":{"announcement-bar":{"type":"announcement-bar","disabled":true,"settings":{"announcement_text":"Free shipping and returns","announcement_link":"","announcement_closable":false}},"header":{"type":"header","custom_css":[],"settings":{"logo":"shopify:\/\/shop_images\/Logo_Text.svg","logo-inverted":"shopify:\/\/shop_images\/Logo_Text_White.svg","desktop_logo_width":130,"mobile_logo_width":100,"main_menu_link_list":"main-navigation-menu","hover_menu":true,"main_menu_alignment":"left-center","header_sticky":true,"sticky_index":true,"sticky_collection":false}}},"order":["announcement-bar","header"]}
+{
+  "type": "header",
+  "name": "t:sections.header-group.name",
+  "sections": {
+    "announcement-bar": {
+      "type": "announcement-bar",
+      "settings": {
+        "announcement_text": "SALE - Massive price reduction, applied at checkout.",
+        "announcement_link": "shopify:\/\/products\/our-gin",
+        "announcement_closable": false
+      }
+    },
+    "header": {
+      "type": "header",
+      "custom_css": [
+
+      ],
+      "settings": {
+        "logo": "shopify:\/\/shop_images\/Logo_Text.svg",
+        "logo-inverted": "shopify:\/\/shop_images\/Logo_Text_White.svg",
+        "desktop_logo_width": 130,
+        "mobile_logo_width": 100,
+        "main_menu_link_list": "main-navigation-menu",
+        "hover_menu": true,
+        "main_menu_alignment": "left-center",
+        "header_sticky": true,
+        "sticky_index": true,
+        "sticky_collection": false
+      }
+    }
+  },
+  "order": [
+    "announcement-bar",
+    "header"
+  ]
+}
