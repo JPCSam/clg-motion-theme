@@ -8,6 +8,12 @@
           "settings": {
           }
         },
+        "9b29fcd3-bdb2-4f48-a5ae-3ec35a337822": {
+          "type": "text",
+          "settings": {
+            "text": "Massive sale - £10.95 off, applied at checkout"
+          }
+        },
         "separator": {
           "type": "separator",
           "settings": {
@@ -90,6 +96,7 @@
       },
       "block_order": [
         "price",
+        "9b29fcd3-bdb2-4f48-a5ae-3ec35a337822",
         "separator",
         "variant_picker",
         "sales_point",
@@ -171,7 +178,7 @@
         "title": "",
         "align_text": "center",
         "desktop_columns_per_row": 3,
-        "icon_color": "#000",
+        "icon_color": "#000000",
         "button_label": "",
         "button_link": "",
         "divider": false
