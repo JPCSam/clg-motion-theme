@@ -5,7 +5,7 @@
     "announcement-bar": {
       "type": "announcement-bar",
       "settings": {
-        "announcement_text": "SALE - £16 off applied at checkout",
+        "announcement_text": "SALE - Massive Discount applied at checkout",
         "announcement_link": "shopify:\/\/products\/our-gin",
         "announcement_closable": false
       }
