@@ -4,9 +4,8 @@
   "sections": {
     "announcement-bar": {
       "type": "announcement-bar",
-      "disabled": true,
       "settings": {
-        "announcement_text": "",
+        "announcement_text": "SALE - £16 off applied at checkout",
         "announcement_link": "shopify:\/\/products\/our-gin",
         "announcement_closable": false
       }
