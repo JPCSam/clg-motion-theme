@@ -4,8 +4,9 @@
   "sections": {
     "announcement-bar": {
       "type": "announcement-bar",
+      "disabled": true,
       "settings": {
-        "announcement_text": "SALE - Massive price reduction, applied at checkout.",
+        "announcement_text": "",
         "announcement_link": "shopify:\/\/products\/our-gin",
         "announcement_closable": false
       }
