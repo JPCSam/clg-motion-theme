@@ -5,7 +5,7 @@
     "announcement-bar": {
       "type": "announcement-bar",
       "settings": {
-        "announcement_text": "SALE - Massive Discount applied at checkout",
+        "announcement_text": "SALE - Buy 2, get a 3rd 50% off!",
         "announcement_link": "shopify:\/\/products\/our-gin",
         "announcement_closable": false
       }
