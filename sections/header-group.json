@@ -5,7 +5,7 @@
     "announcement-bar": {
       "type": "announcement-bar",
       "settings": {
-        "announcement_text": "BLACK FRIDAY SALE - Buy 2, get a 3rd 50% off!",
+        "announcement_text": "JANUARY FLASH SALE - GET 10% OFF ON YOUR BELOVED GIN",
         "announcement_link": "shopify:\/\/products\/our-gin",
         "announcement_closable": false
       }
